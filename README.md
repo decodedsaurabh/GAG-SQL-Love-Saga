@@ -37,4 +37,4 @@ It demonstrates creative problem solving using SQL and makes the case that even 
 1. **Clone or Download the Repository**  
    Use the green "Code" button on GitHub to download a ZIP of the repository or clone it using Git:
    ```bash
-   https://github.com/decodedsaurabh/GAG-SQL-LoveSaga.git
+   https://github.com/decodedsaurabh/GAG-SQL-Love-Saga.git
